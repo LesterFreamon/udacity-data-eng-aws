@@ -8,6 +8,6 @@ dwh.cfg
 .DS_Store
 
 # sql db files
-*/pagila-star.sql
-*/pagila-schema.sql
-*/pagila-data.sql
+2_Cloud_Data_Warehouses/l1_intro_to_data_warehouses/Data/pagila-data.sql
+2_Cloud_Data_Warehouses/l1_intro_to_data_warehouses/Data/pagila-schema.sql
+2_Cloud_Data_Warehouses/l1_intro_to_data_warehouses/Data/pagila-star.sql
